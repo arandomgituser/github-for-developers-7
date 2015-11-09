@@ -5,3 +5,5 @@
 Guyana is my hometown
 
 i **like** food and *musical instruments*
+
+**Favorite color:** blue
